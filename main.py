@@ -8,3 +8,9 @@ second line
 third line'''
 
 print("Hellow world")
+
+#Module & Pip intro
+#pythone variables
+name ="eshan"
+print(name)
+print(100)
