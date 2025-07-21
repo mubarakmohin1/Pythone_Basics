@@ -1,3 +1,4 @@
+from queue import PriorityQueue
 
 print("there is a right way to learn to speak english")
 
@@ -38,4 +39,26 @@ print(y)
 print(type(x))
 print(type(y))
 print(type(z))
+
+#bool type
+bool = True
+print(type(bool))
+
+print(x>y)
+print(x<y)
+print(x==y)
+
+#string formatting
+num1 = 20
+num2 = 50
+username= "Mohin"
+print(f"this is my super number {num1 +num2}")
+print(f"this is my super number", num1+num2)
+print(f"My name is {username}")
+
+Groom = "Mohin"
+Bride = "unknown"
+print(f" {Bride} is in {Groom}'s heart")
+
+#Binay types
 
